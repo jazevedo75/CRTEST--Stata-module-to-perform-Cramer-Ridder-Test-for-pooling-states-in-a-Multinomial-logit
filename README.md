@@ -1,4 +1,4 @@
-CRTEST: Stata module to perform Cramer-Ridder Test for pooling states in a Multinomial logit
+# CRTEST: Stata module to perform Cramer-Ridder Test for pooling states in a Multinomial logit
 
 ## Abstract
 crtest performs the Cramer-Ridder test for pooling states in the Multinomial logit model. This test assume a multinomial logit model with (S+1) states and two states that are candidates for pooling, s1 and s2. The null hypothesis is that s1 and s2 have the same regression coefficients apart from the intercept.
