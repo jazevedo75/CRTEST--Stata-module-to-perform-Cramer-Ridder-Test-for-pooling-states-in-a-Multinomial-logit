@@ -1,0 +1,10 @@
+v 0.0.0
+d 'CRTEST' 
+d 
+d Distribution-Date: 
+d License: MIT
+d 
+F src/c/crtest.ado
+F src/c/crtest.hlp
+F src/_/_pecats.ado
+F src/_/_pecats.hlp
