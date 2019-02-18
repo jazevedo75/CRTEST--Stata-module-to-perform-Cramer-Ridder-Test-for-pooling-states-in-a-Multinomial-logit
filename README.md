@@ -17,3 +17,11 @@ Cramer; Ridder; multinomial logit; pooling
 
 ### Note: 
 This module may be installed from within Stata by typing "ssc install crtest". Windows users should not attempt to download these files with a web browser.
+
+## Author: 
+
+  **João Pedro Azevedo**  
+  [jazevedo@worldbank.org](mailto:jazevedo@worldbank.org)  
+  World Bank  
+  [personal page](http://www.worldbank.org/en/about/people/j/joao-pedro-azevedo)  
+
